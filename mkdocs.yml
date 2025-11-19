@@ -9,7 +9,7 @@ theme:
     scheme: slate
     primary: orange
     accent: pink
-  favicon: images/yeFavicon.png
+  favicon: images/yeIcon.png
   features:
     - navigation.instant
     - navigation.instant.prefetch
