@@ -19,7 +19,7 @@ theme:
     - navigation.path
     - toc.follow
     - search.suggest
-    - navigation.indexes
+    - navigation.indexes 
 
 
 extra:
@@ -53,3 +53,7 @@ plugins:
       categories:
         - categories
         - tags 
+
+nav:
+  - 我：
+    - 我的经历：我的经历.md
