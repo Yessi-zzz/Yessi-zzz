@@ -76,12 +76,19 @@ plugins:
 
 nav:
   - 我:
-      - Yessi/index.md
-      - 我的桌面: Yessi/我的桌面/myDesktop.md
+    - Yessi/index.md
+    - Desktop & Everyday items:
+      - 电脑: Yessi/Desktop/PC.md
+      - 手机: Yessi/Desktop/phone.md
+      - 耳机: Yessi/Desktop/earphone.md
   - Notes:
-      - notes/index.md
-      - Codes:
-          - Finbonacci Sequence: notes/codes/Fibonacci Number.md
-          - Knapsack Problem: notes/codes/Knapsack Problem.md
-
-   
+    - notes/index.md
+    - Codes:
+      - Dp codes:
+        - Finbonacci Sequence: notes/codes/Fibonacci Number.md
+        - Knapsack Problem: notes/codes/Knapsack Problem.md
+    - Dynamic Programming:
+      - DP/index.md
+      - Two approaches to DP: DP/Two approaches of DP.md
+      - Steps to solve DP problems: DP/Steps to solve a DP problem.md
+      
