@@ -5,7 +5,6 @@ extra_css:
 
 theme:
   name: material
-  favicon: images/YeIcon.png
   palette: 
     scheme: slate
     primary: orange
@@ -24,9 +23,13 @@ theme:
     - navigation.indexes # 会有一个index页面,而不是打开tab的第一篇文章
     - navigation.expand # 核心功能：允许展开和收缩菜单
 
+# markdown扩展
 markdown_extensions:  # 支持数学公式 such as LaTeX, MathML, AsciiMath
   - pymdownx.arithmatex:
       generic: true
+  - attr_list # 图像对齐功能
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -46,6 +49,7 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
 
+# 插件
 plugins:
   - social:
       enabled: true
@@ -74,6 +78,7 @@ plugins:
         - categories
         - tags 
 
+# 导航栏
 nav:
   - 我:
     - Yessi/index.md
@@ -81,6 +86,11 @@ nav:
       - 电脑: Yessi/Desktop/PC.md
       - 手机: Yessi/Desktop/phone.md
       - 耳机: Yessi/Desktop/earphone.md
+      - 游戏&外设: Yessi/Desktop/game&eqs.md
+      - 拍摄设备: Yessi/Desktop/shooting eqs.md
+      - 配件: Yessi/Desktop/accessories.md
+      - 日常使用: Yessi/Desktop/everyday items.md
+      - 穿搭: Yessi/Desktop/clothes.md
   - Notes:
     - notes/index.md
     - Codes:

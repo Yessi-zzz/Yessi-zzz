@@ -1,27 +1,21 @@
 ## Mac
 ### **MacBook Pro 13-inch, M2, 2022**
 
-#### Info
-* chip: Apple M2
-* Memory: 8 GB
+* CPU: Apple M2
+* RAM: 8 GB
+* Storage: Macintosh HD 256 GB
 * Serial Number: LQXTHX1F00
 * Displays: 13.3-inch (2560 x 1600)
-* Storage: Macintosh HD 256 GB
 * System: macOS Tahoe Version 26.1
 
-#### Accessories
-1. Belkin USB-C 五合一拓展坞 (228¥)
-    * 2*SD卡槽
-    * 2*USD 3.1接口
-    * 1*HDMI接口
-2. 三星 T7sheild月幕白 移动固态硬盘 (799¥)   
-    * 1 TB
-    * 1000-2000Mb/s
-    * USB3.2
-3. mryc Type-c 数据线 (59¥) + 苹果PD电源适配器
-4. tomtoc 笔记本包 (158¥)
-    * 13.1-14 inch
-    * 涤纶
-    * 防泼水
 
-总计: 1244¥
+## Windows
+### **联想 拯救者 R9000P(2025)**
+
+* CPU: AMD RYZEN 9 8945HX
+* RAM: 三星 32GB DDR5 5200MHZ (16GB + 16GB)
+* Storage: UMIS RPJY1T24MML1AWY (1T)
+* GPU: NVIDIA GeForce RTX 5070Ti (12GB)
+* Display: NE16QDM-NZB
+* System: AtlasOS
+
